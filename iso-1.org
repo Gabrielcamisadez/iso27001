@@ -1,0 +1,10 @@
+#+title: ISO/IEC 27001:2022
+#+author: gabriel
+
+
+
+* Accreditation vs Certification
+
+#+begin_src json
+
+#+end_src
