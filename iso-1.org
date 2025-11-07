@@ -5,6 +5,15 @@
 
 * Accreditation vs Certification
 
-#+begin_src json
+Certification and accreditation are distinct terms in the ISO ecosystem
 
-#+end_src
+*Accreditation* ->
+Validates that a certification body is competent to perform certification audits
+
+*Certification* ->
+Validates that an organization meets the requirements of a specific ISO standard
+
+
+Accreditation evaluates a CB's competency to initially and continually conduct certification audits
+
+- ISO/IEC 17021-1: Requirements for
