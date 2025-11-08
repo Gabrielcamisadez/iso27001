@@ -3,9 +3,7 @@
 
 * Accreditation vs Certification
 *Accreditation* ->
-Validates that a certification body is competent to perform certification audits
-
-Accreditation evaluates a CB's competency to initially and continually conduct certification audits
+Validates that a certification body is competent to perform certification audits. Accreditation evaluates a CB's competency to initially and continually conduct certification audits
 
 ISO/IEC 17021-1: Requirements for management system CBs, ABs ensure CBs meet international standarts and marketplace expectations
 
