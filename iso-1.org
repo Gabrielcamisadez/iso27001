@@ -18,7 +18,15 @@ Certification bodies assess wheter an organization management system conforms wi
 - Certification may be voluntary or mandatory, depending on regulatory, contractual, or customer reequirements
 
   
+ISO/IEC 17021-1 defines requirements for certification bodies to achive accreditation
 
+- Auditor competency and audit conduct
+
+- Organizational processes and audit evidence management
+
+- Consistency in audit practices and time allocation
+
+Certification bodies are audited annually to ensure ongoing compliance  
 
 
 
