@@ -1,0 +1,47 @@
+#+title: Revisions Amendments Corrigenda
+#+author: gabriel
+
+* REvision
+As normas ISO são documentos "vivos", geridos e mantidos por Comitês Técnicos, e a ISO/IEC 27001 adota esses termos com significados muito específicos no seu ciclo de vida.
+
+No contexto ISO, uma Revisão é a mudança mais profunda e abrangente, resultando em uma nova versão da norma.
+
+- Keeps standards relevant to industry best practices and regulatory frameworks
+
+- Natureza da Mudança: É um novo lançamento da norma, geralmente planejado a cada 5 anos. Envolve alterações significativas na estrutura (cláusulas), escopo ou nos requisitos.
+
+- Implicação: A versão anterior da norma se torna obsoleta ou entra em um período de transição.
+
+- exemplo na ISO 27001: A mudança de ISO/IEC 27001:2013 para ISO/IEC 27001:2022. Esta revisão alterou a estrutura do Anexo A (controles) e o corpo da norma, alinhando-a à estrutura harmonizada (Anexo SL) para facilitar a integração com outras normas ISO.
+
+* corrigenda
+é a forma mais rápida e simples de corrigir o texto de uma norma que já foi publicada, sem alterar seus requisitos técnicos.
+
+Correção de erros editoriais, tipográficos ou de formatação que não afetam a conformidade ou o significado técnico da norma. São erros que ocorreram no processo de publicação.
+
+Implicação: Ajuda a esclarecer o texto, mas não muda o que a organização precisa fazer para estar em conformidade.
+
+Exemplo na ISO 27001: Correção de um número de cláusula incorreto em uma referência cruzada ou de uma palavra mal digitada. A norma não se torna uma "nova edição" por causa de uma Corrigenda.
+
+* amendments
+é uma alteração deliberada de um ou mais requisitos de uma norma que já foi publicada, geralmente em resposta a novas necessidades ou tecnologias, mas que não justifica uma Revisão completa.
+
+Alteração formal de um requisito específico ou adição de um novo elemento técnico, sem alterar a norma na sua totalidade. Altera o conteúdo normativo.
+
+A norma permanece na sua versão principal, mas passa a ser referida com o número da Emenda. A Emenda se torna parte integrante da norma.
+
+Exemplo na ISO 27001: Poderia ser a inclusão de um novo controle no Anexo A (ou alteração em um requisito de cláusula) para endereçar uma nova ameaça de segurança cibernética que surgiu após a publicação da última revisão
+
+
+** Revisions
+transition periods (1-3 years) allow organizations to update management systems
+
+- gap assessments help address new requirements
+
+** Amendments
+no transition period
+
+- smaller-scale changes require immediate implementation
+
+** Corrigenda
+require no system changes but ensure accurate referencing during audits
