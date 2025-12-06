@@ -37,10 +37,10 @@ A definição do escopo do SGSI é exigida pela cláusula 4.3 e garante:
 - Limita o escopo a escritórios específicos, geralmente para atender a regulamentações regionais ou focar em locais de alto risco
 
 * avoid these common pitfalls
-*overly-general scope* ->
+*escopo excessivamente amplo* ->
 - Desperdiça recursos e confunde os leitores do relatório
 
-*overly-narrow scope* ->
+*escopo excessivamente restrito* ->
 - Deixa sistemas críticos desprotegidos, correndo o risco de gerar insatisfação entre as partes interessadas e potenciais departamentos de segurança
 
 *Confusing scope* ->
