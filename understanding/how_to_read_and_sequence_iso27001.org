@@ -1,0 +1,43 @@
+#+title: How To Read And Sequence Iso 27001
+#+author:gabriel
+
+** Clause 4 - Context of the organization
+Define drivers, stakeholders, and scope of the ISMS
+
+** Clause 5 - Leadership
+top leadership demonstrates commitment, assigns responsibility, and provides strategic direction
+
+** Clause 6 - Planning
+define security objectives and establish a risk management process for consistent risk assessment
+
+** Clause 7 - Support
+allocates resources, maintain competency, establish communication plans
+
+** Clause 8 - Operation
+plan, implement, and control ISMS processes, including risk assessment and treatment
+
+** Clause 9 - Performance Evaluation
+monitor and measure ISMS effectiveness trouhg audits and managemeent reviews
+
+** Clause 10 - Improvement
+identify opportunities for improvement and correct nonconformities
+
+
+* Annex A
+As organizações selecionam controles "dentro do escopo" para mitigar os riscos identificados
+
+Controles irrelevantes são marcados como "fora do escopo" com justificativa
+
+Documentos de orientação
+
+*ISO/IEC 27002:2022* ->
+- orientações de implementação para o Anexo A
+
+*ISO/IEC 27003:2022* ->
+- orientações de implementação para as Cláusulas 4 a 10
+
+O fluxo lógico auxilia no desenvolvimento de um plano de auditoria coeso
+
+A compreensão dos requisitos e das orientações ajuda a identificar lacunas na implementação do SGSI (Sistema de Gestão de Segurança da Informação)
+
+Seguir a sequência garante que os auditores possam identificar falhas nos requisitos que dificultam a melhoria durante a implementação ou em auditorias futuras
