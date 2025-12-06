@@ -44,4 +44,4 @@ no transition period
 - smaller-scale changes require immediate implementation
 
 ** Corrigenda
-require no system changes but ensure accurate referencing during audits
+- require no system changes but ensure accurate referencing during audits
