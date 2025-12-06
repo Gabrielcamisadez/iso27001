@@ -2,25 +2,25 @@
 #+author:gabriel
 
 ** Clause 4 - Context of the organization
-Define drivers, stakeholders, and scope of the ISMS
+Definir os direcionadores, as partes interessadas e o escopo do SGSI (Sistema de Gestão de Segurança da Informação)
 
 ** Clause 5 - Leadership
-top leadership demonstrates commitment, assigns responsibility, and provides strategic direction
+A alta liderança demonstra comprometimento, atribui responsabilidades e fornece diretrizes estratégicas
 
 ** Clause 6 - Planning
-define security objectives and establish a risk management process for consistent risk assessment
+Definir os objetivos de segurança e estabelecer um processo de gestão de riscos para uma avaliação consistente dos mesmos
 
 ** Clause 7 - Support
-allocates resources, maintain competency, establish communication plans
+Alocar recursos, manter a competência e estabelecer planos de comunicação
 
 ** Clause 8 - Operation
-plan, implement, and control ISMS processes, including risk assessment and treatment
+Planejar, implementar e controlar os processos do SGSI, incluindo a avaliação e o tratamento de riscos
 
 ** Clause 9 - Performance Evaluation
-monitor and measure ISMS effectiveness trouhg audits and managemeent reviews
+Monitorar e mensurar a eficácia do SGSI por meio de auditorias e revisões gerenciais
 
 ** Clause 10 - Improvement
-identify opportunities for improvement and correct nonconformities
+Identificar oportunidades de melhoria e corrigir as não conformidades
 
 
 * Annex A
