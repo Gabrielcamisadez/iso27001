@@ -1,0 +1,26 @@
+#+title: Audit Team Roles
+#+author: gabriel
+
+* intro
+Clearyl defined roles and responsibilities are essential
+
+Audit team composition depends on
+- auditee size and complexity
+- scope of the audit
+
+Collective competency in necessary to evaluate ISMS and security controls
+
+*Key takeaway* --> understanding team roles aids in conducting audits appropriately, whether you are new or transitioning to ISO audits
+
+* lead auditor
+*Role* --> leads the audit process, both client-facing and team-facing
+- plans the audit (time,scope,sampling,team,schedule,budget)
+- conducts opening and interviews with auditee stakeholders
+- reviews evidence, determines nonconformities, and finalizes the audit report
+
+
+
+** importance of audit team composition
+- *Consistency* --> defined roles ensure audits achieve objectives across clients
+- *Efficiency* --> clear roles enable effective collaboration and work distribution
+- *Depth* --> a well-composed team with the right number of auditors and technical expertise ensures thorough audits
