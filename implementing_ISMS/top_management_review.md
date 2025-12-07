@@ -1,0 +1,82 @@
+
+# Table of Contents
+
+1.  [required input](#org3c8c133)
+2.  [required output](#orgcdee6c5)
+
+Apresenta métricas de desempenho para auxiliar na tomada de decisões (ref. `Clause 9.3`)
+
+-   Identifica pontos fortes, pontos fracos e áreas para melhoria
+-   Permite que a alta administração faça perguntas e forneça contribuições
+
+Normalmente, é apresentado a um comitê da alta administração que patrocina o programa
+
+A ISO 27001 não exige um intervalo ou frequência específica para a revisão pela gestão
+
+**common practice** ->
+
+-   Pelo menos uma vez por ano
+-   Algumas organizações realizam revisões trimestrais ou semestrais
+
+Revisões ad hoc podem ocorrer para riscos significativos ou mudanças no SGSI (Sistema de Gestão de Segurança da Informação)
+
+**sequence** ->
+
+-   Após a avaliação de riscos e a auditoria interna
+
+
+<a id="org3c8c133"></a>
+
+# required input
+
+-   Status dos itens de ação anteriores
+-   Mudanças no contexto organizacional ou nas necessidades das partes interessadas
+-   Métricas de desempenho do SGSI, não conformidades e ações corretivas, monitoramento e medição, resultados da auditoria, objetivos
+-   Resultados da avaliação de riscos e status do plano de tratamento de riscos
+-   Oportunidades para melhoria contínua
+
+**status of previous action items**
+
+-   Acompanhar decisões e ações para fins de responsabilização e rastreabilidade
+
+**changes in organizational context**
+
+-   Analisar os fatores internos/externos que afetam o escopo
+-   Determinar se o escopo do SGSI permanece relevante
+
+**nonconformitites & corrective actions**
+
+-   Garantir a eficácia dos processos de correção e supervisão
+
+**monitoring & measurement results**
+
+-   Analisar as principais métricas (tempos de resposta a incidentes, gerenciamento de vulnerabilidades, eficácia dos controles)
+
+**audit results (internal/external)**
+
+-   Identificar tendências em lacunas ou destacar achados positivos
+
+**ISMS objectives**
+
+-   Determinar se os objetivos estão sendo atingidos ou se necessitam de ajustes
+
+**risk assessment and treatment plans**
+
+-   Analisar a relevância dos riscos, decidir sobre escalonamentos ou aceitações e garantir as aprovações apropriadas
+
+**opportunities for continual improvement**
+
+-   Identificar melhorias para controles, processos ou procedimentos que podem não decorrer de riscos ou achados específicos
+
+
+<a id="orgcdee6c5"></a>
+
+# required output
+
+-   Documentar alterações em políticas, procedimentos ou controles
+-   Pontos de decisão e atualizações de riscos (pontuações de risco, aceitações)
+-   Ações pós-reunião
+    -   Abordagem de problemas de desempenho do SGSI (Sistema de Gestão de Segurança da Informação)
+    -   Alocação de recursos ou alterações orçamentárias
+    -   Abordagem de riscos, não conformidades ou oportunidades de melhoria
+
