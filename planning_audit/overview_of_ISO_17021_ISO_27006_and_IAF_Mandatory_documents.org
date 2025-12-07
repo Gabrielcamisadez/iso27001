@@ -1,0 +1,14 @@
+#+title: Overview Of Iso 17021 Iso 27006 And Iaf Mandatory Documents
+#+author: gabriel
+
+ISO/IEC 17021-1:2015 - General requirements for management system CB
+
+ISO/IEC 27006-1:2024 - Requirements for CB conducting ISMS audits
+
+IAF MD 1:2023 - Multi-Site audits
+
+IAF MD 4:2023 - ICT Use in Auditing
+
+IAF MD 26:2023 - Transition Requirements
+
+IAF MD 28:2023 - Upload & Maintenance if data on the IAF Database
