@@ -1,0 +1,52 @@
+#+title: Building An Audit Program
+#+author:gabriel
+
+*A comprehensive plan covering a specified period, usually over a 3-year certification lifecycle*
+- Estabelece consistência e confiabilidade na auditoria de um sistema de gestão
+- Acompanha os requisitos, locais, processos e produtos a serem auditados
+- Serve como referência para os membros da equipe de auditoria durante o planejamento
+- Determina o tempo de auditoria necessário para atingir os objetivos e atender aos requisitos de acreditação
+
+*scope* --> Define o escopo, afetando a composição da equipe, a duração da auditoria e as entrevistas planejadas
+
+*frequency* --> Especifica se o programa abrange um ciclo de 3 anos, auditorias anuais ou pontuais
+
+*audit criteria* --> Identifica as normas ISO sob inspeção
+
+*resources* --> Aloca auditores específicos para garantir a continuidade entre os ciclos
+
+*audit schedule* --> Garante consistência no cronograma e nas expectativas
+
+* steep 1 - determine the audit scope
+- Preenchido durante o processo de inscrição e serve como base fundamental
+
+* step 2 - confirm audit criteria
+- Especifica as normas a serem auditadas (por exemplo, ISO 27001, ISO 27701, ISO 27701, ISO 27701) 42001)
+
+* step 3 - establish the audit frequency
+- geralmente, abrange um ciclo de 3 anos, mas pode variar com base em auditorias de transferência de outro organismo de certificação; Auditorias especiais
+
+* step 4 - determine audit time requirements
+- com base no número de funcionários e nos critérios de auditoria
+
+* step 5 - establish audit team and resources
+- auditores líderes, equipe de apoio e especialistas técnicos, conforme necessário
+
+* step 6 - develop the audit schedule
+- as auditorias de certificação inicial exigem duas etapas
+
+* reviewing & adjusting the audit program
+*annual review*
+- realizada antes da auditoria e após a renovação da certificação para garantir a adequação
+
+*reasons for adjustments*
+- constatações de auditorias anteriores que exigem atenção adicional
+- novos riscos para o sistema de gestão que exigem atualizações
+- mudanças organizacionais, como expansão do escopo ou rotatividade de pessoal, que afetam os critérios, a composição da equipe ou os requisitos de tempo
+
+* tips for a successful audit program
+*Escalabilidade* --> flexível para acomodar mudanças no escopo ano a ano
+
+*Consistência* --> um plano de auditoria bem estruturado promove profissionalismo e rigor
+
+*Alocação de recursos* --> tempo adequadamente alocado e auditores competentes garantem que os objetivos da auditoria sejam atingidos
