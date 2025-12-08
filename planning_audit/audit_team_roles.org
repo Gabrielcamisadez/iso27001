@@ -18,7 +18,32 @@ Collective competency in necessary to evaluate ISMS and security controls
 - conducts opening and interviews with auditee stakeholders
 - reviews evidence, determines nonconformities, and finalizes the audit report
 
+*Competency* --> Strong ISO 27001 knowledge and  understanding of accreditation requirements
 
+* auditor
+*Role* --> supports the lead auditor and performs audit activities
+- conducts interviews with stakeholders (e.g, leaders, managers, controls owners)
+- reviews documented evidence for ISO 27001 conformity
+- drafts initial findings, identifies nonconformities, and tracks follow-up items
+
+*Competency* --> knowledge of ISO 27001 and audit techniques, organizational and analytical skills
+
+* technical expert or guide
+*Role* --> provides specializeed knowledge in specific technical domains
+- evaluates specific Annex A controls (e.g, cloud security, encryption, networking)
+- guides the audit team on technical conformity issues
+- may assist with language translation with non-nativee speakers
+
+*Competence* --> subject matter or language-specific only
+
+* observer
+*Role* --> observes the audit for learning, oversight, or stakeholder representation
+- gains experience or supervises the audit
+- represents interested parties like regulators
+- maintain confidentiality and impartiality
+- does not opine on audit conclusions
+
+*Competency* --> none required, but the lead auditor should brief the observer beforehand
 
 ** importance of audit team composition
 - *Consistency* --> defined roles ensure audits achieve objectives across clients
