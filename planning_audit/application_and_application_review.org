@@ -1,0 +1,67 @@
+#+title: Application And Application Review
+#+author:gabriel
+
+* purpose of application (i.e., scoping questionnarie)
+- Processo formal para iniciar a auditoria de certificação ISO e solicitar orçamento a um organismo de certificação
+- Coleta informações sobre o escopo, a complexidade e o contexto organizacional do SGSI (Sistema de Gestão de Segurança da Informação)
+
+* outcome
+- Auxilia o organismo de certificação no planejamento de auditorias com os recursos adequados e dentro de suas áreas técnicas
+
+* step 1 - scoping call
+- Reunião inicial para discutir o escopo geral, preços e cronograma
+
+* step 2 - formal application submission
+- O solicitante preenche um formulário detalhado com todas as informações relevantes
+
+* step 3 - application review
+- O organismo de certificação verifica se as informações estão completas e corrige inconsistências
+- Confirma se o escopo está dentro da área técnica
+- Apresenta os preços em uma proposta
+
+* organizational context
+- size
+- industry
+- locations
+
+* scope
+- Limites da certificação, incluindo escritórios, departamentos e processos
+
+* audit criteria
+- Determina quais normas estão sendo buscadas (por exemplo, ISO 27001, ISO 27701, ISO 42001)
+
+* previous 3 party assurance
+- Identifica sobreposições ou prontidão com base em avaliações anteriores (por exemplo, SOC 2)
+
+* timeline
+O candidato deve comunicar quaisquer restrições de cronograma ou prazos.
+
+* prior compliance initiatives
+- Aproveita as sobreposições com auditorias anteriores (por exemplo, SOC 2) para otimizar os processos
+
+* statement of applicability
+- Verifica os controles justificados e identifica as áreas que requerem testes
+
+* audit methodology
+- Determina se a auditoria remota ou presencial é apropriada com base na estrutura organizacional
+
+* scope of the audit
+- Normas, número de funcionários, locais, departamentos, processos e produtos
+- Garante o tamanho e a competência adequados da equipe de auditoria
+
+* risk and complexity
+- Avalia riscos externos, como a sensibilidade dos dados e os requisitos regulatórios
+
+* audit time
+- Estima o tempo total de auditoria necessário para avaliar o escopo com base nas informações da solicitação e nos requisitos de acreditação
+
+** take the application submission seriously
+
+* clarity in scope
+- Evita confusão e ineficiências tanto para os auditores quanto para as organizações solicitantes
+
+* adequate audit team
+- Garante que o tamanho e a competência da equipe correspondam ao escopo, evitando o desperdício de recursos
+
+* impact of poor scope definition
+- Escopos amplos ou indefinidos podem levar a falhas de comunicação, retrabalho e auditorias ineficientes
