@@ -4,44 +4,44 @@
 * intro
 Clearyl defined roles and responsibilities are essential
 
-Audit team composition depends on
-- auditee size and complexity
-- scope of the audit
+A composição da equipe de auditoria depende de:
+- tamanho e complexidade da empresa auditada
+- escopo da auditoria
 
-Collective competency in necessary to evaluate ISMS and security controls
+A competência coletiva é necessária para avaliar o SGSI (Sistema de Gestão de Segurança da Informação) e os controles de segurança
 
-*Key takeaway* --> understanding team roles aids in conducting audits appropriately, whether you are new or transitioning to ISO audits
+*Ponto-chave* --> Compreender as funções da equipe auxilia na condução adequada das auditorias, seja você iniciante ou esteja em transição para auditorias ISO
 
 * lead auditor
-*Role* --> leads the audit process, both client-facing and team-facing
-- plans the audit (time,scope,sampling,team,schedule,budget)
-- conducts opening and interviews with auditee stakeholders
-- reviews evidence, determines nonconformities, and finalizes the audit report
+*Role* --> Lidera o processo de auditoria, tanto no contato com o cliente quanto com a equipe
+- Planeja a auditoria (tempo, escopo, amostragem, equipe, cronograma, orçamento)
+- Realiza reuniões de abertura e entrevistas com as partes interessadas da empresa auditada
+- Revisa as evidências, determina as não conformidades e finaliza o relatório de auditoria
 
 *Competency* --> Strong ISO 27001 knowledge and  understanding of accreditation requirements
 
 * auditor
-*Role* --> supports the lead auditor and performs audit activities
-- conducts interviews with stakeholders (e.g, leaders, managers, controls owners)
-- reviews documented evidence for ISO 27001 conformity
-- drafts initial findings, identifies nonconformities, and tracks follow-up items
+*Role* --> Apoia o auditor líder e realiza atividades de auditoria
+- Realiza entrevistas com as partes interessadas (por exemplo, líderes, gerentes, responsáveis ​​pelos controles)
+- Revisa as evidências documentadas para conformidade com a ISO 27001
+- Elabora as conclusões iniciais, identifica as não conformidades e acompanha os itens de acompanhamento.
 
 *Competency* --> knowledge of ISO 27001 and audit techniques, organizational and analytical skills
 
 * technical expert or guide
-*Role* --> provides specializeed knowledge in specific technical domains
-- evaluates specific Annex A controls (e.g, cloud security, encryption, networking)
-- guides the audit team on technical conformity issues
-- may assist with language translation with non-nativee speakers
+*Role* --> Fornece conhecimento especializado em domínios técnicos específicos.
+- Avalia controles específicos do Anexo A (por exemplo, segurança na nuvem, criptografia, redes).
+- Orienta a equipe de auditoria em questões de conformidade técnica.
+- Pode auxiliar na tradução para idiomas com pessoas que não falam o idioma nativo.
 
-*Competence* --> subject matter or language-specific only
+*Competency* --> subject matter or language-specific only
 
 * observer
-*Role* --> observes the audit for learning, oversight, or stakeholder representation
-- gains experience or supervises the audit
-- represents interested parties like regulators
-- maintain confidentiality and impartiality
-- does not opine on audit conclusions
+*Role* --> Observa a auditoria para aprendizado, supervisão ou representação das partes interessadas.
+- Adquire experiência ou supervisiona a auditoria.
+- Representa as partes interessadas, como órgãos reguladores.
+- Mantém a confidencialidade e a imparcialidade.
+- Não emite opinião sobre as conclusões da auditoria.
 
 *Competency* --> none required, but the lead auditor should brief the observer beforehand
 
