@@ -1,0 +1,30 @@
+#+title: Conducting The Audit
+#+author:gabrie
+
+Conducting the audit is the primary activity for assessing the conformity of a management system to an ISO standard
+
+- conducting interviews, collecting and inspecting evidence, and observing walkthroughs
+
+*Outputs*
+- nonconformities, opportunities for improvement, positive findings, conformity determinations, and potentially certification
+
+*lead auditor*
+- oversees the entire audit process, manages timelines, approves findings, and ensures evidence appropriateness
+
+*auditor*
+- conducts interviews, reviews evidence, and identifies potential gaps
+
+*technical expert*
+- provides specialized knowledge (e.g., for technical controls or language translation) to ensure thorough and accurate audits
+
+* phase 1 - preparation & planning
+- includes the application process, building the audit program, and developing the audit plan
+
+* phase 2 - collecting evidence
+- gather evidence throuhg interviews, document reviews and process observations
+
+* phase 3 - analysis & evaluation
+- review collected evidence to determine conformity based on ISO requirements
+
+* phase 4 - Findings & feedback
+- resulting from the analysis, auditors will document their findings(both positive and negative) they have for continual improvement of the management system

@@ -1,0 +1,47 @@
+#+title: Opening Meeting
+#+Author:gabriel
+
+First, formal interaction between the audit team and the auditee organization
+- confirm audit objectives and scope
+- align stakeholders on what to expect
+- emphasize scope and criteria
+- audit schedule, safety procedures, and contigency plans
+- audit schedule, safety procedures, and contigency plans
+- audit team roles and responsabilities
+- communication protocols
+- opportunity for the auditee to ask questions
+
+*lead auditor*
+- facilitates the meetings, explains requirements, and addresses auditee questions
+
+*audit team*
+- introduces themselves and may assist with questions in their areas of expertise
+
+Observers & Witness Assessors
+
+Key stakeholders (e.g., Top management, ISMS Owner, process/control owners, department heads) should be present
+
+*Agenda*
+- audit team introductions and roles
+- confirmation of audit objectives, scope and criteria
+- sampling, control testing, evidence collection
+
+*audit schedule preview*
+- daaily meetings, breaks, and end-of-day wrap-up
+
+*logistics*
+- communication protocols, evidence collection processes, and onsite visits
+
+- Discussion of nonconformity identification and severity evaluation
+
+- open Q&A
+
+Establish multiple communication channels early (phone, email, video conferencin, etc...)
+
+Encourage open, frequent communication and feedback
+
+Be clear, concise, and follow a checklist to ensure all items are addressed
+
+Allocate sufficient time for agenda coverage and Q&A
+
+Confirm mutual understanding and agreement concerning the audit plan
